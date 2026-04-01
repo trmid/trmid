@@ -2,9 +2,7 @@
 
 #### :computer: Full Stack Web Developer
 
-#### :hash: Blockchain Enthusiast
-
-#### :heart: IPFS Lover
+#### :brain: Preserver of self-autonomy
 
 #### :smile: Maker of (too) many projects
 ------------------------------------------------------------------------------------------
